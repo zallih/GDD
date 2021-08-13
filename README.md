@@ -17,5 +17,5 @@ Existem diversos fóruns, artigos e cursos tentando estabelecer um formato “de
   <img width="200" alt="QuebraDeLinha" src="https://media.discordapp.net/attachments/783761333358166056/875852044928425984/divider-2461548_640.png">
   </p>
   
-  Veja mais em: <a href="https://producaodejogos.com/gdd/" target="_blank">Produção de jogos</a>
+  Veja mais em: <a href="https://producaodejogos.com/gdd/">Produção de jogos</a>
 </div>
