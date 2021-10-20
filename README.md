@@ -19,5 +19,5 @@ Existem diversos fóruns, artigos e cursos tentando estabelecer um formato “de
   
   <img align="right" alt="zallih" width="120" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png">
 
-  Veja mais em: <a href="https://producaodejogos.com/gdd/">Produção de jogos</a>
+  Veja mais em: <a href="https://producaodejogos.com/gdd/">Produção de jogos</a> ᶜʳᵉᵈᶦᵗᵒˢ
 </div>
